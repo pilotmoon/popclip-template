@@ -1,0 +1,10 @@
+{
+  "devDependencies": {
+    "@popclip/types": "^1.4586.0",
+    "axios": "1.6.8",
+    "typescript": "5.4.5"
+  },
+  "scripts": {
+    "check": "tsc --noEmit"
+  }
+}
