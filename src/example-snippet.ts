@@ -1,6 +1,6 @@
 // #popclip
 // name: Example Snippet
-// language: javascript
+// language: typescript
 // module: true
 
 export const action: Action = {

@@ -1,6 +1,4 @@
 {
-  "compilerOptions": {
-    "lib": ["ES2023"]
-  },
+  "compilerOptions": {},
   "include": ["./node_modules/@popclip/types/popclip.d.ts", "./src/**/*.ts"]
 }
